@@ -6,7 +6,7 @@ A real-time weather dashboard built with Python and Streamlit. Enter any city na
 
 ---
 
-## 📸 Demo
+##  Demo
 
  <img width="1003" height="906" alt="image" src="https://github.com/user-attachments/assets/e6bbbc8d-5a75-425a-afa1-795677aa5a0a" />
 
@@ -35,7 +35,7 @@ A real-time weather dashboard built with Python and Streamlit. Enter any city na
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ### 1. Clone the repo
 
