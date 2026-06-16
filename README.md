@@ -12,17 +12,17 @@ A real-time weather dashboard built with Python and Streamlit. Enter any city na
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌡️ Real-time temperature, feels like, humidity and wind speed
-- 🗺️ Interactive map with city marker using Folium
-- 🌤️ Live weather icon from OpenWeather
-- 🐳 Fully Dockerized for consistent environments
-- 🔐 Secure API key handling via environment variables
+-  Real-time temperature, feels like, humidity and wind speed
+-  Interactive map with city marker using Folium
+-  Live weather icon from OpenWeather
+-  Fully Dockerized for consistent environments
+-  Secure API key handling via environment variables
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -76,7 +76,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 weather-dashboard/
@@ -91,7 +91,7 @@ weather-dashboard/
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 | Variable | Description |
 |---|---|
@@ -99,7 +99,7 @@ weather-dashboard/
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 This was intentionally a simple project — the goal was to learn and practice:
 
@@ -110,6 +110,6 @@ This was intentionally a simple project — the goal was to learn and practice:
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — feel free to use and modify!
