@@ -1,6 +1,6 @@
 
 
-# 🌤️ Weather Dashboard
+#  Weather Dashboard
 
 A real-time weather dashboard built with Python and Streamlit. Enter any city name to get current weather data along with an interactive map.
 
